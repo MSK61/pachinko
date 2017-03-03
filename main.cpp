@@ -1,6 +1,6 @@
 /************************************************************
  *
- * Copyright 2010 Mohammed El-Afifi
+ * Copyright 2010, 2017 Mohammed El-Afifi
  *
  * pachinko is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Lesser General Public License as published by
@@ -21,9 +21,10 @@
  *
  * description:  calculates the best score among all routes
  *
- * author:       Mohammed Safwat (MS)
+ * author:       Mohammed El-Afifi (ME)
  *
  * environment:  KDevelope 3.5.4, Fedora release 10 (Cambridge)
+ *               emacs 25.1.1, python 2.7.13, Fedora release 25 (Twenty Five)
  *
  * notes:        This is a private program.
  *
